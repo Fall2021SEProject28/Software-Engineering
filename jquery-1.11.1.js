@@ -1,4 +1,16 @@
-
+/*!
+ * jQuery JavaScript Library v1.11.1
+ * http://jquery.com/
+ *
+ * Includes Sizzle.js
+ * http://sizzlejs.com/
+ *
+ * Copyright 2005, 2014 jQuery Foundation, Inc. and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2014-05-01T17:42Z
+ */
 
 (function( global, factory ) {
 
@@ -28,6 +40,8 @@
 // Can't do this because several apps including ASP.NET trace
 // the stack via arguments.caller.callee and Firefox dies if
 // you try to trace through "use strict" call chains. (#13335)
+// Support: Firefox 18+
+//
 
 var deletedIds = [];
 
@@ -236,6 +250,8 @@ jQuery.extend({
 	noop: function() {},
 
 	// See test/unit/core.js for details concerning isFunction.
+	// Since version 1.3, DOM methods and functions like alert
+	// aren't supported. They return false on IE (#2968).
 	isFunction: function( obj ) {
 		return jQuery.type(obj) === "function";
 	},
@@ -282,10 +298,11 @@ jQuery.extend({
 				return false;
 			}
 		} catch ( e ) {
-
+			// IE8,9 Will throw exceptions on certain host objects #9897
 			return false;
 		}
 
+		// Support: IE<9
 		// Handle iteration over inherited properties before own properties.
 		if ( support.ownLast ) {
 			for ( key in obj ) {
@@ -439,6 +456,7 @@ jQuery.extend({
 			first[ i++ ] = second[ j++ ];
 		}
 
+		// Support: IE<9
 		// Workaround casting of .length to NaN on otherwise arraylike objects (e.g., NodeLists)
 		if ( len !== len ) {
 			while ( second[j] !== undefined ) {
@@ -573,7 +591,7 @@ var Sizzle =
  * Released under the MIT license
  * http://jquery.org/license
  *
- * Date: 2021-11-09
+ * Date: 2014-04-18
  */
 (function( window ) {
 
