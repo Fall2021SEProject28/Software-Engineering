@@ -73,8 +73,8 @@ Login pages
 
 changing features
 ![changeseat](https://user-images.githubusercontent.com/90812251/144147977-612422dc-517e-4e58-ac71-ddcca1abb99a.PNG)
+![setseats](https://user-images.githubusercontent.com/90812251/144148324-0cc62b17-9d5d-414f-ba65-7c837d9ef4fe.PNG)
 
-![search flights](https://user-images.githubusercontent.com/90812251/144147990-4bc98ae7-729d-425f-a62b-c6066285addc.PNG)
 
 booking flight
 
