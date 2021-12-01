@@ -78,6 +78,5 @@ changing features
 
 booking flight
 
-![booking](https://user-images.githubusercontent.com/90812251/144148038-853d6891-87da-49fe-afd9-ba51fff495c4.PNG)![search flights](https://user-
-images.githubusercontent.com/90812251/144148066-87ea1b9a-7118-44ce-b6d7-eefec0e33249.PNG)
-
+![booking](https://user-images.githubusercontent.com/90812251/144148038-853d6891-87da-49fe-afd9-ba51fff495c4.PNG)
+![search flights](https://user-images.githubusercontent.com/90812251/144148138-dde63f61-c10a-4906-a927-acf95373585a.PNG)
