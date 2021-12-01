@@ -62,3 +62,4 @@ Following are the steps of work flow:
 11, When the customer approves the itinerary the customer should be taken to a payment page where the total price should be shown. When the customer presses the pay button consider the transaction done and mark the seat sold.
 
 12, Once the seat is sold, send out an email to the customer with the flight itinerary.
+![home](https://user-images.githubusercontent.com/90812251/144147773-f8c146b0-7ff4-4268-819e-c9502e663922.PNG)
