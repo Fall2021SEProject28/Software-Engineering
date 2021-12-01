@@ -62,4 +62,22 @@ Following are the steps of work flow:
 11, When the customer approves the itinerary the customer should be taken to a payment page where the total price should be shown. When the customer presses the pay button consider the transaction done and mark the seat sold.
 
 12, Once the seat is sold, send out an email to the customer with the flight itinerary.
-![home](https://user-images.githubusercontent.com/90812251/144147773-f8c146b0-7ff4-4268-819e-c9502e663922.PNG)
+
+Home page
+![home](https://user-images.githubusercontent.com/90812251/144147773-f8c146b0-7ff4-4268-819e-c9502e663922.PNG)![hmp222](https://user-images.githubusercontent.com/90812251/144147934-7211cf8d-afef-42a9-b755-32f282e15c9f.PNG)
+
+
+Login pages
+![login1](https://user-images.githubusercontent.com/90812251/144147836-058f632d-2df5-450a-b979-6ca7ae7d423e.PNG)
+![login2](https://user-images.githubusercontent.com/90812251/144147840-9d7b8c61-bb39-42b0-b7fd-89f8aa2e4bfa.PNG)
+
+changing features
+![changeseat](https://user-images.githubusercontent.com/90812251/144147977-612422dc-517e-4e58-ac71-ddcca1abb99a.PNG)
+
+![search flights](https://user-images.githubusercontent.com/90812251/144147990-4bc98ae7-729d-425f-a62b-c6066285addc.PNG)
+
+booking flight
+
+![booking](https://user-images.githubusercontent.com/90812251/144148038-853d6891-87da-49fe-afd9-ba51fff495c4.PNG)![search flights](https://user-
+images.githubusercontent.com/90812251/144148066-87ea1b9a-7118-44ce-b6d7-eefec0e33249.PNG)
+
